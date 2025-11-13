@@ -1,3 +1,5 @@
 line1 from test in remote repo
 line2 from test in remote repo
 line3 from test in remote repo
+
+line1 from test in local repo
